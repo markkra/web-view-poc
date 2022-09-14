@@ -7,3 +7,4 @@ export default {
 };
 
 export const story1 = () => `<my-counter></my-counter>`;
+export const story2 = () => `<embedded-webview src=""></embedded-webview>`;
